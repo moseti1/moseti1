@@ -1,4 +1,4 @@
-### Hi there! I'm Moseti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there!  I'm Moseti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning -  Google Cloud and  react
 - 👯 I’m looking to collaborate with - Data Scientists globally.
 - 💬 Ask me about - Python and R for Data Science
-- 🥅 2021 Goal -  Is to contribute more to Open Source and land an Awesome Dev Role.
+- 🥅 2021 Goal -  I aim to contribute more to Open Source and land an Awesome Dev Role.
 - ⚡ Fun fact - Code make me see !
 <br />
 
