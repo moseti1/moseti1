@@ -35,6 +35,8 @@
     - rshiny
     - purrr
     - caret 
+    - readr
+    - ggplot2
     - ....etc
 - Javascript:
     - React 
@@ -42,8 +44,11 @@
     - Jquery
 - Statistics:
     - Statistical Analysis 
-- tableau 
-- Databases 
+- Tableau 
+- Databases
+- Data Analytics 
+- Data Visualization
+- Data Analytic in Microsoft Excel
 
 <hr/>
 <br/>
