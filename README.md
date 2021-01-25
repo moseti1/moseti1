@@ -20,7 +20,8 @@
 <br/>
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-## Check out my Github stats below
+## Check out my Github stats below 
+<br/>
 [![Moseti's github stats](https://github-readme-stats.vercel.app/api?username=moseti1&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 ## Let's Connect:
