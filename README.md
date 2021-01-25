@@ -11,8 +11,8 @@
 - ⚡ Fun fact - Code make me see !
 <br />
 
-<hr />
-<br />
+
+
 
 ## Skills 
 
