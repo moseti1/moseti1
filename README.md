@@ -9,11 +9,11 @@
 - 🥅 2020 Goal - ❔❔❔❔
 - ⚡ Fun fact - ❔❔❔❔
 <br />
-# Skills 
+
 <hr />
 <br />
 
-# Skills 
+## Skills 
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
