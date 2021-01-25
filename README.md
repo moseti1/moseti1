@@ -1,13 +1,19 @@
 ### Hi there! I'm Moseti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
-## Your short description
+## Data Scientist and Software Engineer.
 - 🔭 I’m currently working on - ❔❔❔❔
 - 🌱 I’m currently learning - ❔❔❔❔
 - 👯 I’m looking to collaborate with - ❔❔❔❔
 - 💬 Ask me about - ❔❔❔❔
 - 🥅 2020 Goal - ❔❔❔❔
 - ⚡ Fun fact - ❔❔❔❔
+<br />
+# Skills 
+<hr />
+<br />
+
+# Skills 
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
