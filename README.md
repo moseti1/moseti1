@@ -15,6 +15,35 @@
 
 
 ## Skills 
+- Python: 
+    - Pandas
+    - Numpy
+    - Matplotlib
+    - Seaborn
+    - Bokeh 
+    - Scikit-learn
+    - Django 
+    - Flask  
+    - Python Machine Learning
+    - Image Processing 
+    
+          
+ 
+- R-Programming 
+    - tidyverse
+    - tidyr
+    - rshiny
+    - purrr
+    - caret 
+    - ....etc
+- Javascript:
+    - React 
+    - Angular 
+    - Jquery
+- Statistics:
+    - Statistical Analysis 
+- tableau 
+- Databases 
 
 <hr/>
 <br/>
