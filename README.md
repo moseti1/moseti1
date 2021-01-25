@@ -2,12 +2,12 @@
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 ## Data Scientist and Software Engineer.
-- 🔭 I’m currently working on - ❔❔❔❔
-- 🌱 I’m currently learning - ❔❔❔❔
-- 👯 I’m looking to collaborate with - ❔❔❔❔
+- 🔭 I’m currently working on -  Data Science Projects 
+- 🌱 I’m currently learning -  Google Cloud and  react
+- 👯 I’m looking to collaborate with - Data Scientists globally.
 - 💬 Ask me about - ❔❔❔❔
-- 🥅 2020 Goal - ❔❔❔❔
-- ⚡ Fun fact - ❔❔❔❔
+- 🥅 2021 Goal -  Is to contribute more to Open Source and land an Awesome Dev Role.
+- ⚡ Fun fact - Code make me see !
 <br />
 
 <hr />
@@ -17,12 +17,12 @@
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![Moseti's github stats](https://github-readme-stats.vercel.app/api?username=❔❔❔❔&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Moseti's github stats](https://github-readme-stats.vercel.app/api?username=moseti1&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://github.com/moseti1]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 <!-- Optional if you have blogs -->
@@ -34,4 +34,5 @@
 [website]: https://google.com
 [twitter]: https://twitter.com/DerrickMoseti1
 [linkedin]: https://www.linkedin.com/in/derrick-moseti-b81bb7191/
+
 
