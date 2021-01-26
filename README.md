@@ -73,7 +73,7 @@
 
 <!-- This section you create this variables that are used above -->
 [website]: https://google.com
-[twitter]: https://twitter.com/DerrickMoseti1
+[twitter]: https://twitter.com/moseti_dev
 [linkedin]: https://www.linkedin.com/in/derrick-moseti-b81bb7191/
 
 [github]: https://github.com/moseti1
