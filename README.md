@@ -8,47 +8,11 @@
 - 👯 I’m looking to collaborate with - Data Scientists globally.
 - 💬 Ask me about - Python and R for Data Science
 - 🥅 2021 Goal -  I aim to contribute more to Open Source and land an Awesome Dev Role.
-- ⚡ Fun fact - Code make me see !
+
 <br />
 
 
 
-
-## Skills 
-- Python: 
-    - Pandas
-    - Numpy
-    - Matplotlib
-    - Seaborn
-    - Bokeh 
-    - Scikit-learn
-    - Django 
-    - Flask  
-    - Python Machine Learning
-    - Image Processing 
-    
-          
- 
-- R-Programming 
-    - tidyverse
-    - tidyr
-    - rshiny
-    - purrr
-    - caret 
-    - readr
-    - ggplot2
-    - ....etc
-- Javascript:
-    - React 
-    - Angular 
-    - Jquery
-- Statistics:
-    - Statistical Analysis 
-- Tableau 
-- Databases
-- Data Analytics 
-- Data Visualization
-- Data Analytic in Microsoft Excel
 
 <hr/>
 <br/>
