@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning -  Google Cloud and  react
 - 👯 I’m looking to collaborate with - Data Scientists globally.
 - 💬 Ask me about - Python and R for Data Science
-- 🥅 2021 Goal -  I aim to contribute more to Open Source and land an Awesome Dev Role.
+
 
 <br />
 
