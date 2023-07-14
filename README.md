@@ -2,14 +2,6 @@
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 
-## MLE
-
-- 🔭 I’m currently working on -  Data Science Projects 
-- 🌱 I’m currently learning -  Google Cloud and  react
-- 👯 I’m looking to collaborate with - Data Scientists globally.
-- 💬 Ask me about - Python and R for Data Science
-
-
 <br />
 
 
