@@ -1,4 +1,4 @@
-[My Twitter](https://twitter.com/The_Moseti)                              [My Linkedin](https://www.linkedin.com/in/derrick-moseti/)
+[My Twitter](https://twitter.com/The_Moseti)                                                                             [My Linkedin](https://www.linkedin.com/in/derrick-moseti/)
 
 
 
